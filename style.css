@@ -285,20 +285,20 @@ a.nav-logo {
 }
 
 .projects-container.rebyu {
-    background: url('./assets/p-1.png');
+    background: url('assets/p-1.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .projects-container.wakai {
-    background: url('./assets/p-3.png');
+    background: url('assets/p-3.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .projects-container.form-validation {
-    background: url('./assets/p-5.png');
+    background: url('assets/p-5.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
